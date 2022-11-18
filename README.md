@@ -2,7 +2,7 @@
 
 ## Supporting Frontend
 
-Building a google clone using html, css, javascript
+Building a google clone using html and css
 
 links to learning
 
